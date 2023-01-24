@@ -149,6 +149,7 @@ a {
 .horizontal-bar-products > p > span {
   color: black;
 }
+
 .bottom-bar {
   display: flex;
   flex-wrap: wrap;
@@ -222,5 +223,5 @@ a {
 }
 
 .section-contact > div > i {
-    margin-bottom: 3vh;
+  margin-bottom: 3vh;
 }
